@@ -2,4 +2,5 @@ presentation/*
 *.pyc
 *__
 model/*
+*.ipynb*
 summary/*
