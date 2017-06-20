@@ -1,0 +1,5 @@
+presentation/*
+*.pyc
+*__
+model/*
+summary/*

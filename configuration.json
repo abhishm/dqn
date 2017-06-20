@@ -1,0 +1,15 @@
+{
+  "env_name": "MountainCar-v0",
+  "summary_every": 10,
+  "learning_rate": 0.001,
+  "epsilon": 0.1,
+  "discount": 0.99,
+  "target_update_rate": 0.1,
+  "buffer_size": 100000,
+  "sample_size": 32,
+  "num_itr": 1000,
+  "num_episodes": 1,
+  "max_step": 200,
+  "dqn_update": 50,
+  "huber_loss_threshold": 100.0
+}
