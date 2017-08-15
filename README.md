@@ -1,4 +1,4 @@
-# Temporal Difference Based Actor Critic
+# DQN 
 Modular implementation of DQN algorithm.
 
 # Dependencies
@@ -13,6 +13,8 @@ Modular implementation of DQN algorithm.
 - Using a target network and soft-update to synchronoze target network with Q-network
 - Using gradient clipping to make small but consistent updates towards optimal Q-network 
 
+### Bonus
+- Implementation of [Tabular Q-learnin](https://github.com/abhishm/dqn/tree/master/tabular_q_learning) 
 
 # Usage
 
