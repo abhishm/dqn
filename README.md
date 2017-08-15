@@ -14,7 +14,7 @@ Modular implementation of DQN algorithm.
 - Using gradient clipping to make small but consistent updates towards optimal Q-network 
 
 ### Bonus
-- Implementation of [Tabular Q-learnin](https://github.com/abhishm/dqn/tree/master/tabular_q_learning) 
+- Implementation of [Tabular Q-learning](https://github.com/abhishm/dqn/tree/master/tabular_q_learning) 
 
 # Usage
 
